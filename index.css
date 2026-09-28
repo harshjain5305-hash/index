@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+.fmn{
+    margin: auto;
+    padding: 30px;
+    background-color: aliceblue;
+    margin-left: 20%;
+    margin-right: 20%;
+    display:grid;
+    text-align: center;
+}
+#imgdiv{
+    margin: auto;
+    border:1cm;
+    border-color: rgb(254, 254, 254);
+    border-radius: 5%;
+    background-color: rgb(255, 254, 253);
+    height: fit-content;
+    width: fit-content;
+}
+section{
+    margin-left: 0;
+}
+
+#contactus{
+    margin: auto;
+    content: initial; 
+}
+.skill-rating{
+    color: rgb(242, 227, 60);
+}
